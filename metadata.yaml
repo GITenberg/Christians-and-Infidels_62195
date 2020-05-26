@@ -1,5 +1,8 @@
 _repo: Christians-and-Infidels_62195
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62195-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62195#Christians-and-Infidels
 gutenberg_issued: '2020-05-22'
 gutenberg_type: Text
 identifiers:
